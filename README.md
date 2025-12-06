@@ -42,7 +42,7 @@ Sistem rekomendasi pemain sepak bola berbasis **ontologi** dan **Natural Languag
 FootballRecommendationSystem/
 │
 ├── data/
-│   └── footballplayerontology-progress3.ttl
+│   └── footballplayerontology.ttl
 │
 ├── notebooks/
 │   └── NLP_Processing.ipynb
