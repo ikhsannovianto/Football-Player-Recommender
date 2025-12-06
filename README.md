@@ -19,3 +19,24 @@ Sistem rekomendasi pemain sepak bola berbasis ontologi dan NLP yang dibangun den
 - **Data Processing**: Jupyter Notebook, pandas
 
 ## Struktur Project
+FootballRecommendationSystem/
+│
+├── data/
+│   └── footballplayerontology-progress3.ttl
+│
+├── notebooks/
+│   └── NLP_Processing.ipynb
+│
+├── src/
+│   └── app.py
+│
+├── templates/
+│   └── index.html
+│
+├── static/
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── script.js
+│
+└── README.md
